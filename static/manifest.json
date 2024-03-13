@@ -1,0 +1,20 @@
+{
+	"id": "Miguard",
+	"name": "Miguard",
+	"short_name": "Miguard",
+	"start_url": "/",
+	"scope": "/",
+	"display": "standalone",
+	"orientation": "any",
+	"theme_color": "#5D1046",
+	"background_color": "#e2e1e0",
+	"dir": "ltr",
+	"lang": "eng",
+	"icons": [
+		{
+			"src": "logo.png",
+			"sizes": "781x780",
+			"type": "image/png"
+		}
+	]
+}
