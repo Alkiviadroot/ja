@@ -1,20 +1,31 @@
 {
-	"id": "Miguard",
-	"name": "Miguard",
-	"short_name": "Miguard",
-	"start_url": "/",
-	"scope": "/",
-	"display": "standalone",
-	"orientation": "any",
-	"theme_color": "#5D1046",
-	"background_color": "#e2e1e0",
-	"dir": "ltr",
-	"lang": "eng",
-	"icons": [
-		{
-			"src": "logo.png",
-			"sizes": "781x780",
-			"type": "image/png"
-		}
-	]
+    "theme_color": "#5D1046",
+    "background_color": "#fcf7f3",
+    "display": "standalone",
+    "scope": "/",
+    "start_url": "/",
+    "name": "Miguard",
+    "short_name": "Miguard",
+    "icons": [
+        {
+            "src": "/icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/icon-256x256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+        {
+            "src": "/icon-384x384.png",
+            "sizes": "384x384",
+            "type": "image/png"
+        },
+        {
+            "src": "/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
 }
